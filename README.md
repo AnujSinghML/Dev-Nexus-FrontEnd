@@ -1,2 +1,1 @@
-# Dev-Nexus-FrontEnd
-AlumnixConnect-FrontEnd-By-DevNexus
+https://devnexus-sih2024-test.vercel.app/
